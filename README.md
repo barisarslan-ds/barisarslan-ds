@@ -1,1 +1,2 @@
-Statistics @ METU. Quant & financial analysis.
+Statistics @ METU.
+Quant & financial analysis.
